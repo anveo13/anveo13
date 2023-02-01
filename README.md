@@ -74,7 +74,6 @@ I'm Anderson Leonardo and i'm a Full Stack Developer
   </div>
 </div>
 
-##
 <h2>Find me:</h2>
 <div align="center">
  <a href="https://www.linkedin.com/in/nan13/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
