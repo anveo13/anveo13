@@ -32,7 +32,7 @@ I'm Anderson Leonardo and i'm a Full Stack Developer
          <img src="https://img.shields.io/badge/-NodeJS-blue?style=for-the-badge&color=83ce3f" /> 
       </a>
       <a href="https://expressjs.com/" target="blank">
-         <img src="https://img.shields.io/badge/-express-blue?style=for-the-badge&color=fff" /> 
+         <img src="https://img.shields.io/badge/-express-blue?style=for-the-badge&color=cca" /> 
       </a>
       <a href="https://eslint.org/" target="blank">
          <img src="https://img.shields.io/badge/-Eslint-blue?style=for-the-badge&color=4c63ba" /> 
@@ -44,7 +44,7 @@ I'm Anderson Leonardo and i'm a Full Stack Developer
          <img src="https://img.shields.io/badge/-postgresql-blue?style=for-the-badge&color=336791" /> 
       </a>
       <a href="https://www.prisma.io/docs" target="blank">
-         <img src="https://img.shields.io/badge/-prisma-blue?style=for-the-badge&color=ffffff" /> 
+         <img src="https://img.shields.io/badge/-prisma-blue?style=for-the-badge&color=cccccc" /> 
       </a>
     </div>
   </div>
