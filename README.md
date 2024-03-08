@@ -2,7 +2,7 @@
 
 I'm Anderson Leonardo and i'm a Full Stack Developer
 
-- 🌱 I’m currently learning JAVA
+- 🌱 I’m currently learning Swift
 - 👯 I’m looking to new opportunities ...
 
 <div>
